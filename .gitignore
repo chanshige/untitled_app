@@ -1,0 +1,11 @@
+.idea
+.env
+/vendor
+composer.lock
+untitled_app.iml
+
+!/docker/db/*
+docker/db/*
+
+!db.cnf
+!.gitkeep
